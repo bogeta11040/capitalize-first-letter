@@ -1,3 +1,6 @@
+// Igor B.
+// http://github.com/bogeta11040
+
 let sentence = document.querySelector('#sentence');
 let res = document.querySelector('#result');
 let submitBtn = document.querySelector('#submitbtn');
