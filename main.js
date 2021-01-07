@@ -1,5 +1,9 @@
 // Igor B.
 // http://github.com/bogeta11040
+// ..................................
+// First letter will be capitalized,
+// and the other ones will be lowcase
+// ('hjKkjkjk' will be 'Hjkkjkjk')
 
 let sentence = document.querySelector('#sentence');
 let res = document.querySelector('#result');
