@@ -5,10 +5,10 @@
 // and the other ones will be lowcase
 // ('hjKkjkjk' will be 'Hjkkjkjk')
 
-let sentence = document.querySelector('#sentence');
-let res = document.querySelector('#result');
-let submitBtn = document.querySelector('#submitbtn');
-let resetBtn = document.querySelector('#resetbtn');
+const sentence = document.querySelector('#sentence');
+const res = document.querySelector('#result');
+const submitBtn = document.querySelector('#submitbtn');
+const resetBtn = document.querySelector('#resetbtn');
 
 submitBtn.addEventListener('click', makeResult);
 resetBtn.addEventListener('click', resetText);
